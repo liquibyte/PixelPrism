@@ -1,6 +1,7 @@
 # PixelPrism
 
 A lightweight X11 color picker and palette management tool with advanced features.
+<img width="590" height="652" alt="screenshot" src="https://github.com/user-attachments/assets/0d405ceb-ebb6-42d6-9284-25b4e60a02de" />
 
 ## Features
 
