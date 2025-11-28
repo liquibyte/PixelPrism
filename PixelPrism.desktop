@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PixelPrism
+Comment=Pixel color picker and palette utility
+Exec=pixelprism
+Icon=pixelprism
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+StartupNotify=true
