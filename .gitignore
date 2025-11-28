@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+pixelprism
+pixelprism.xpm
+
+# IDE and editor files
+*.code-workspace
+
+# Debug and profiling
+core
+vgcore.*
+*.log
+
